@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,54 +10,70 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <style>
         /* Background Style */
-        .background-style {
+
+        #main {
+            font-family: "Roboto", Arial, Verdana, sans-serif;
             background-color: lightblue;
             padding: 10px;
             text-align: center;
         }
-    
-    
-    
+
+
+
         /* Title */
+
         #title {
-            font-family: "Roboto", Arial, Verdana, sans-serif;
             font-weight: 900;
             font-size: 50px;
             text-align: center;
         }
-        
+
+
         /* Tribute Info */
+
         #tribute-info {
             font-family: "Roboto", Arial, Verdana, sans-serif;
-            text-align: center;
+            text-align: left;
+            margin-left: 80px;
+
         }
-        
+
         /* Images */
-        #img-div {
-            
-        }
-        
-        #image {
-            
-        }
-        
-        #main {
-            background-color: lightblue;
-        }
-        
-        
+
+        #img-div {}
+
+        #image {}
     </style>
 </head>
-<body class="background-style">
+
+<body id="main">
     <!-- Set Header Element -->
     <header>
         <h1 id="title">Derek Dhammaloka</h1>
-        <p id="tribute-info">Professional Software Developer</p>
+        <p>Professional Software Developer</p>
     </header>
-    
+
     <!-- Set Main Element -->
-    <main id="main">
-        <div id="img-div"></div>
+    <main>
+        <section>
+            <div id="img-div">
+               
+            </div>
+            <h3>Here's a Timeline of Derek Dhammaloka's Life</h3>
+            <!-- Display Tribute Information -->
+            <ul id="tribute-info">
+                <li><strong>1969 </strong>- Born in Bromley, Kent</li>
+                <br>
+                <li><strong>1988 </strong>- Attended Thames Polytechnic, London</li>
+                <br>
+                <li><strong>1991 </strong>- Received a BSc in Maths, Statistics and Computing</li>
+                <br>
+                <li><strong>1994 </strong>- Passed Driving Test in Sidcup, Kent</li>
+                <br>
+                <li><strong>2004 </strong>- Joined the British Computer Society (BCS) at Affiliate Level</li>
+            </ul>
+        </section>
     </main>
 </body>
+
 </html>
