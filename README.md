@@ -7,9 +7,9 @@ It is in a similar style to https://codepen.io/freeCodeCamp/full/zNqgVx
 
 ## UX
 
-The tribute information consists of year and milestone (e.g. Passed Driving Test at Sidcup, Kent).  
+The tribute information consists of year and milestone (e.g. Passed Driving Test at Sidcup, Kent).  Organising principal is timeline.
 
-[Wireframes](wireframes/wireframe-tribute-page.png) 
+[Wireframes](wireframes/wireframe-tribute-page.png) are provided. 
 ## Features
 
 ## Technologies
