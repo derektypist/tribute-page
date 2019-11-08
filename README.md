@@ -44,7 +44,11 @@ destination.  Links to external web pages should open in a new window.
 
 This project is deployed on GitHub pages at https://derektypist.github.io/tribute-page, using the master branch.
 
-Remote 
+Remote setup use the command
+
+    git remote add origin https://github.com/derektypist/tribute-page
+
+Any changes use git push in the terminal window.
 
 ## Credits
 
