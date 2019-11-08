@@ -1,16 +1,30 @@
 # Derek Dhammaloka Tribute Page
 
-Welcome to my tribute page.  The purpose of this project is to provide a tribute page of myself.  A link to an outside site
-that contains additional information about myself is to be provided.
+Welcome to my tribute page.  The purpose of this project is to provide a tribute page of myself.  An image is provided.  A link to an outside site
+that contains additional information about myself is provided.
 
 It is in a similar style to https://codepen.io/freeCodeCamp/full/zNqgVx
 
 ## UX
 
-The tribute information consists of year and milestone (e.g. Passed Driving Test at Sidcup, Kent).  Organising principal is timeline.
+The tribute page provides my name, slogan, image (including caption) and information.
 
-[Wireframes](wireframes/wireframe-tribute-page.png) are provided. 
+The tribute information consists of year and milestone (e.g. Passed Driving Test at Sidcup, Kent).  Organising principle is timeline.
+
+Users can see a timeline of my milestones, which include computing, travel, education and other personal things (e.g. Attended First Horse Race Meeting in Epsom, Surrey).
+They can go to a link that contains additional information about myself without leaving the tribute page.  The link is coloured green.  Hovering over the link, the colour
+changes to fuchsia and a screentip (View Details) is displayed.
+
+As a user, I would like to see the img element responsively resize, relative to the width of its parent element, without exceeding its original size.
+The max-width is set to 100%.
+
+I would like to see the img element centered within its parent element.  Display is set to block and margin is set to auto.
+
+[Wireframes](wireframes/wireframe-tribute-page.png) are provided.
+
 ## Features
+
+Responsive Image, Link to External Web Page and Timeline.
 
 ## Technologies
 
@@ -20,7 +34,11 @@ This project uses HTML5 with CSS3 (Internal).  Other technologies include https:
 
 ## Testing
 
-Use the CDN Link to run the tests in any environment: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+Go to https://codepen.io/freeCodeCamp/pen/MJjpwO, select Test Suite (Tribute Page) and select Run Tests.  Make sure all the tests have passed.
+If some have failed, go back and edit the code (e.g. max-width: 100%) until all the tests have passed.
+
+Resize the width of the browser window to see the img element responsively resize.  Manually check the links to ensure that they are pointing to the correct
+destination.  Links to external web pages should open in a new window.
 
 ## Deployment
 
