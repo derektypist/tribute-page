@@ -42,6 +42,10 @@ destination.  Links to external web pages should open in a new window.
 
 ## Deployment
 
+This project is deployed on GitHub pages at https://derektypist.github.io/tribute-page, using the master branch.
+
+Remote 
+
 ## Credits
 
 ### Content
@@ -54,4 +58,7 @@ The picture was taken by myself in Easter 2019.
 
 ### Acknowledgements
 
-Went to [Blackheath & Bromley Harriers](https://www.bandbhac.org.uk) page 
+Went to Blackheath & Bromley Harriers AC Web Page (https://www.bandbhac.org.uk) for further information about myself.  Went to Gazettes and
+selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
+
+The quote at the bottom of the page is taken from https://app.slack.com/client/T0L30B202/threads
