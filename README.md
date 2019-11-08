@@ -65,4 +65,4 @@ The picture was taken by myself in Easter 2019.
 Went to Blackheath & Bromley Harriers AC Web Page (https://www.bandbhac.org.uk) for further information about myself.  Went to Gazettes and
 selected Sept 1993, which is at http://www.bandbhac.org.uk/cr131-091993.html
 
-The quote at the bottom of the page is taken from https://app.slack.com/client/T0L30B202/threads
+The quote at the bottom of the page is taken from the Simen Daehlin - Mentor - Senior JavaScript Developer (August 2019).
